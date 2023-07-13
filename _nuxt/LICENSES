@@ -1,3 +1,6 @@
+//!\ DECLARE ALIAS AFTER assign prototype !
+
+
 /*!
  * Vue.js v2.7.14
  * (c) 2014-2022 Evan You
